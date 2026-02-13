@@ -1,9 +1,9 @@
-# Stable Release v21.05.265
+# Stable Release v21.06.259
 
-* **Base Update**: Updated YouTube base to v21.05.265 (Stable)
+* **Base Update**: Updated YouTube base to v21.06.259 (Stable)
 * **Fixes**:
-    * Resolved startup crash issues from beta versions
-    * Improved buffering and playback stability
-    * Full compatibility with KernelSU and Magisk
+    * Improved stability and performance
+    * Refined AMOLED theme
+    * Latest core patch integration
 
 **Note:** If prompted, select "Keep use experimental".
