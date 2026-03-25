@@ -1,3 +1,8 @@
+## v21.11.484 (Stable)
+* **Base Update**: Updated YouTube base to v21.11.484
+* **Fixes**: General performance improvements and stability enhancements.
+* **Core**: Updated internal definitions.
+* 
 ## v21.06.259 (Stable)
 * **Base Update**: Updated YouTube base to v21.06.259
 * **Fixes**: General performance improvements and bug fixes.
