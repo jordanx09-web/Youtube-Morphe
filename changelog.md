@@ -1,3 +1,9 @@
+## v21.14.485 (Revised Update)
+* **Patch Update**: Updated to the latest Morphe patches.
+* **Installer Fix**: Fixed installation script routing.
+* **Offline Support**: Retained full stock base to prevent installation failures on clean setups.
+* 
+
 ## v21.14.485 (Stable)
 * **Base Update**: Updated YouTube base to v21.14.485
 * **Fixes**: General performance improvements and stability enhancements.
