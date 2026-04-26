@@ -1,7 +1,9 @@
-# Update v21.14.485 (Revised)
+# Stable Release v21.16.256
 
-* **Patch Update**: Integrated latest Morphe patches
-* **Installer Fix**: Fixed module installation script
-* **Offline Support**: Full installation support for devices without YouTube pre-installed
+* **Base Update**: Updated YouTube base to v21.16.256 (Stable)
+* **Fixes**:
+    * Improved stability and overall performance
+    * Refined AMOLED theme integration
+    * Latest core updates
 
 **Note:** If prompted, select "Keep use experimental".
