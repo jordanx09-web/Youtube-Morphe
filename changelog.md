@@ -1,3 +1,11 @@
+## v21.20.400 (Stable)
+* **Base Update**: Updated YouTube base to v21.20.400.
+* **Ads**: Hidden new product stickers in Shorts.
+* **Playback**: Disabled client flag interfering with background playback and player overlays.
+* **Fix**: Resolved null exceptions when interacting with Live Avatars in Shorts.
+* **UI**: Improved player overlay button handling.
+
+
 ## [v21.19.287] — May 17, 2026
 
 **Stable** · YouTube v21.19.287
