@@ -1,11 +1,3 @@
-# YouTube Morphe v21.19.287
-
-**Stable** release · May 17, 2026 · YouTube v21.19.287
-
-## Summary
-
-- **Morphe Patches:** Integrated Morphe Patches with stream, layout, and playback fixes for YouTube
-- **New Feature:** Added Save to Watch Later patch with support for brand accounts
 # Stable Release v21.20.400
 
 * **Base Update**: Updated YouTube base to v21.20.400 (Stable)
