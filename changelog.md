@@ -1,3 +1,10 @@
+## v20.47.62 (Stable Base Switch)
+* **Base Update**: Reverted YouTube base to stable v20.47.62 to prevent system crashes.
+* **Ads**: Hidden new product stickers.
+* **Playback**: Disabled client flag interfering with background playback and player overlays.
+* **UI**: Improved player overlay button handling.
+* **Core**: Integrated Morphe Patches v1.29.0.*
+
 ## v21.20.400 (Stable)
 * **Base Update**: Updated YouTube base to v21.20.400.
 * **Ads**: Hidden new product stickers in Shorts.
