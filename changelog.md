@@ -1,3 +1,10 @@
+## v20.51.39 (Stable)
+* **Base Update**: Updated YouTube base to verified stable v20.51.39.
+* **Ads**: Hidden new product stickers in layouts.
+* **Privacy**: Sanitized invite URLs and improved share link tracking removal.
+* **UI**: Fixed live avatar triggering in channel headers.
+* **Fixes**: Resolved player overlay button update loops.
+
 ## v20.47.62 (Stable Base Switch)
 * **Base Update**: Reverted YouTube base to stable v20.47.62 to prevent system crashes.
 * **Ads**: Hidden new product stickers.
