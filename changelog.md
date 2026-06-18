@@ -1,55 +1,12 @@
-# 📜 Changelog
+# Changelog
 
-All notable changes to the **YouTube Morphe** module are documented in this file.
+## v20.51.39 (Stable) — 2026-06-18
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
----
-
-## [20.51.39] — 2026-06-18
-
-### 🆕 New
-- **YouTube Base:** Bumped to **YouTube 20.51.39** (versionCode `1561173315`).
-- **Morphe Patcher:** Integrated latest **Morphe Patches v1.32.0** with the following additions:
-  - **AMOLED Dark Theme** — Now available for the GitHub app in addition to YouTube, delivering true deep-black OLED optimization system-wide.
-  - Expanded patch coverage across supported Morphe ecosystem apps.
-- **Morphe CLI v1.8.0-dev.5:** Leverages improved dex-rebuilding pipeline with reduced memory footprint and faster patching cycles.
-- **Morphe Manager v1.9.0-dev.4:** Enhanced patch-update management and reduced UI stuttering during long patch operations.
-
-### 🔧 Improved
-- **Patch Reliability:** Faster dex merging and strip-libs re-enabled for smaller module footprint.
-- **Auto-Update Metadata:** `update.json` now includes `youtubeVersion` and `patcherVersion` fields for better transparency in root managers.
-- **Compatibility:** Verified against Magisk 24+ and KernelSU 0.9.0+.
-
-### 🛡️ Security & Privacy
-- **Link Sanitization:** Removes tracking parameters from shared YouTube links (powered by Morphe).
-- **Signature Spoofing:** Restores push notifications on patched builds without exposing device identifiers.
-
-### 📦 Module
-- Systemless mount verified on Magisk & KernelSU.
-- Module size optimized via re-enabled library stripping.
-
----
-
-## [Older Releases]
-
-For historical release notes prior to `20.51.39`, see [RELEASE_NOTES.md](./RELEASE_NOTES.md).
-
----
-
-## Version Legend
-
-| Component | Version |
-|-----------|---------|
-| YouTube Base | `20.51.39` |
-| Module Version | `20.51.39` |
-| Morphe Patches | `v1.32.0` |
-| Morphe CLI | `v1.8.0-dev.5` |
-| Morphe Manager | `v1.9.0-dev.4` |
-
----
-
-*Last updated: 2026-06-18 by @Jordanx_09*
+- **Base:** Updated to YouTube v20.51.39.
+- **Ads:** Hidden new product stickers in layouts.
+- **Privacy:** Sanitized invite URLs and improved share link tracking removal.
+- **UI:** Fixed live avatar triggering in channel headers.
+- **Fixes:** Resolved player overlay button update loops.
 
 
 ## v20.51.39 (Stable)
