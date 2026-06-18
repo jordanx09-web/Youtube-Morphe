@@ -1,4 +1,10 @@
 ## v20.51.39 (Stable)
+* **Base Update**: Anchored to stable v20.51.39 framework.
+* **Ad-Block**: Added options to hide "Includes paid promotion" labels and filter comments by keywords.
+* **Fixes**: Resolved redirect bypass failures on community posts and fixed Shorts background playback issues.
+* **UI**: Prevented PiP triggers during sharing and optimized Material You notification dot contrast for AMOLED themes.* 
+
+## v20.51.39 (Stable)
 * **Base Update**: Updated YouTube base to verified stable v20.51.39.
 * **Ads**: Hidden new product stickers in layouts.
 * **Privacy**: Sanitized invite URLs and improved share link tracking removal.
