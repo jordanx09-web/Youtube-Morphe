@@ -1,10 +1,13 @@
 # Stable Release v20.51.39
 
-* **Base Update**: Updated to YouTube v20.51.39 (Stable Base)
-* **Ad-Block**: Hidden new product stickers
-* **Privacy Enhancements**:
-    * Improved URL sanitization for invite links
-    * Safely excluded playlist links from being stripped
+* **Base**: YouTube v20.51.39 (Stable)
+* **Visuals**: Enhanced AMOLED black contrast and Material You notification dots
+* **Ad-Block & UI**:
+    * Hide "Includes paid promotion" labels
+    * Hide specific comments by keywords
 * **Bug Fixes**:
-    * Fixed live avatar triggers in channel headers
-    * Corrected player overlay button update loops
+    * Fixed background playback failing in Shorts
+    * Resolved redirect bypass failures on community posts
+    * Prevented PiP triggers when opening the share sheet
+
+**Maintainer:** Jordanx_09
