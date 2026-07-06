@@ -1,3 +1,14 @@
+# 📜 Changelog
+
+## 🏷️ v20.51.39-1 (Stable) — 2026-07-06
+
+- 🔄 **Patches:** Updated to Morphe Patches v1.34.0-dev.2 (72 patches).
+- 🚫 **Ads:** Hidden new product stickers in layouts.
+- 🔗 **Privacy:** Sanitized invite URLs and improved share link tracking removal.
+- 🎨 **UI:** Fixed live avatar triggering in channel headers.
+- 🛠️ **Fixes:** Resolved player overlay button update loops.
+- 
+
 # Changelog
 
 ## v20.51.39 (Stable) — 2026-06-18
