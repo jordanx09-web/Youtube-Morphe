@@ -1,19 +1,30 @@
-# Release Notes
+# 📝 Release Notes
 
-## v20.51.39 (Stable)
-**Released:** 2026-06-18 | **YouTube:** v20.51.39 | **Version Code:** 1561173315
+## 🏷️ v20.51.39-1 (Stable) — 2026-07-06
 
-### Changes
-- Updated to stable YouTube v20.51.39.
-- Hidden new product sticker ads.
-- Sanitized invite URLs and improved tracking removal.
-- Fixed live avatar triggering in channel headers.
-- Resolved player overlay button update loops.
+| | |
+|:---|:---|
+| **YouTube Base** | v20.51.39 |
+| **Version Code** | 1561173316 |
+| **Morphe Patches** | v1.34.0-dev.2 |
+| **Total Patches** | 72 |
 
-### Requirements
-- Magisk 24.0+ or KernelSU 0.9.0+
+### ✨ What's New
 
-### Install
-1. Download the ZIP from Assets.
-2. Flash in Magisk / KernelSU → Modules.
+- 🔄 **Patches:** Updated to Morphe Patches v1.34.0-dev.2.
+- 🚫 **Ads:** Hidden new product sticker ads.
+- 🔗 **Privacy:** Sanitized invite URLs & improved tracking removal.
+- 🎨 **UI:** Fixed live avatar triggering in channel headers.
+- 🛠️ **Fixes:** Resolved player overlay button update loops.
+
+### 📥 Install
+
+1. Download `YouTube.Morphe-v20.51.39-1.zip`.
+2. Flash in **Magisk / KernelSU → Modules**.
 3. Reboot.
+
+### ⚙️ Requirements
+
+Magisk 24.0+ or KernelSU 0.9.0+.
+
+> ⚠️ *For educational purposes only. Trademarks belong to Google LLC.*
