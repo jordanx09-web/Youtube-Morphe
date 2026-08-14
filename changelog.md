@@ -1,3 +1,13 @@
+## v21.04.223 (Morphe v1.39.1)
+* Base: Shifted to stable v21.04.223 framework.
+* Core: Updated patches to Morphe v1.39.1.
+* Queue: Added feed flyout queue menu item and fixed fullscreen flyout issues.
+* UI Controls: Added toggles to hide TV popups, message cards, gesture hints, and chapter buttons.
+* Seekbar: Enabled Shorts seekbar thumbnails and refined precise seeking visuals.
+* Playback: Restored fullscreen zoom functionality and added playback in feeds.
+
+
+
 # 📜 Changelog
 
 ## 🏷️ v20.51.39-1 (Stable) — 2026-07-06
