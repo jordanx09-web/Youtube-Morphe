@@ -1,20 +1,16 @@
-# 📝 Release Notes
+# Stable Release: v21.04.223
 
-## v20.51.39-1 (Stable) — 2026-07-06
+* Base: YouTube v21.04.223 (Stable)
+* Core Enhancements:
+    * Updated to Morphe v1.39.1 engine
+    * Added playback in feeds
+* Bug Fixes & Improvements:
+    * Restored zoom functionality for fullscreen gestures
+    * Fixed Add to queue flyout menu in fullscreen
+    * Show Shorts seekbar thumbnails
+* New UI Controls:
+    * Hide 'Connect your devices' popup
+    * Hide player gesture hints and message cards
+    * Hide Chapters and 'In this video' button
 
-**YouTube:** v20.51.39 | **Version Code:** 1561173316 | **Patches:** v1.34.0-dev.2
-
-### What's New
-- Updated to Morphe Patches v1.34.0-dev.2 (72 patches)
-- Hidden new product sticker ads
-- Sanitized invite URLs & improved tracking removal
-- Fixed live avatar triggering in channel headers
-- Resolved player overlay button update loops
-
-### Install
-1. Download the ZIP
-2. Flash in Magisk / KernelSU → Modules
-3. Reboot
-
-### Requirements
-Magisk 24.0+ or KernelSU 0.9.0+
+Maintainer: Jordanx_09
