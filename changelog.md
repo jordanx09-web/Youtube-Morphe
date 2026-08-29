@@ -1,4 +1,4 @@
-## v21.04.223-1 (Morphe v1.40.0)
+## v21.04.223 (Morphe v1.40.0)
 
 🔄 **Base/Patches**
 * Maintained stable YouTube base v21.04.223
