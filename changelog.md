@@ -1,3 +1,24 @@
+## v21.04.223-1 (Morphe v1.40.0)
+
+🔄 **Base/Patches**
+* Maintained stable YouTube base v21.04.223
+* Updated core engine to Morphe v1.40.0
+
+🚫 **Ads & Clutter**
+* Refined video recommendation labels to hide only in search results
+
+🎨 **UI Enhancements**
+* Change the app background color from the app settings
+* Prevent seekbar thumbnail resizing fluctuations
+* Dynamically set round edges for 'most replayed' label background
+* Added new hex integer to dark values
+
+🛠️ **Bug Fixes**
+* Fixed error message shown when adding to queue from certain channels
+* Prevent paused videos from auto-resuming after returning to app
+* Fixed Library filter bar being hidden
+* Fixed layout padding when using "Hide horizontal shelves"
+
 ## v21.04.223 (Morphe v1.39.1)
 * Base: Shifted to stable v21.04.223 framework.
 * Core: Updated patches to Morphe v1.39.1.
