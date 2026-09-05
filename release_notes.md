@@ -1,23 +1,22 @@
-# Stable Release: v21.04.223-1
+# Stable Release: v21.07.247
 
 🔄 **Base/Patches**
-* Maintained stable YouTube base v21.04.223
-* Updated core engine to Morphe v1.40.0
+* Migrated to stable YouTube base v21.07.247
+* Updated core engine to Morphe v1.42.0
 
 🚫 **Ads & Clutter**
-* Refined video recommendation labels to hide only in search results
+* Added channel whitelists specifically for ads and playback speed
+* Added settings to hide new types of community posts and 'Report AI channel' entries
 
 🎨 **UI Enhancements**
-* Added ability to change the app background color natively from settings
-* Prevented seekbar thumbnail resizing fluctuations
-* Dynamically set round edges for the 'most replayed' label background
-* Added new hex integer support for deep dark values
+* Added "Auto pause when device is locked" setting for background playback
+* Added "Hide gesture hints" and "Hide channel links section" settings
+* Added option to change player control buttons background opacity
+* Theme engine now properly applies foreground colors to text and icons in more locations
 
 🛠️ **Bug Fixes**
-* Fixed error messages when using "Add to queue" from specific channels
-* Prevented paused videos from auto-resuming when returning to the app
-* Fixed Library filter bar being accidentally hidden
-* Fixed layout padding when using the "Hide horizontal shelves" option
+* Restored `ShortsPlayerState` check to fix default video quality applying incorrectly
+* Resolved empty channel tabs appearing when using the "Hide channel tab filter" option
 
 ---
 
@@ -26,4 +25,8 @@
 2. Flash in Magisk or KernelSU
 3. Reboot your device
 
-> **Disclaimer:** A clean install (clearing YouTube data) is recommended if coming from older patches.
+### ⚡ Requirements
+* Magisk (v24.0+) or KernelSU installed
+* Stock YouTube app (unmodified, or safely overwrite previous Morphe versions)
+
+> **Disclaimer:** A clean install (clearing YouTube app cache/data) is heavily recommended if you encounter layout bugs from older patch transitions.
