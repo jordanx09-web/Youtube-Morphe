@@ -1,3 +1,23 @@
+## v21.07.247 (Morphe v1.42.0)
+
+🔄 **Base/Patches**
+* Migrated to stable YouTube base v21.07.247
+* Updated core engine to Morphe v1.42.0
+
+🚫 **Ads & Clutter**
+* Added channel whitelists for ads and playback speed
+* Added setting to hide new types of community posts
+
+🎨 **UI Enhancements**
+* Added "Auto pause when device is locked" setting
+* Added "Hide gesture hints" and "Hide channel links section" settings
+* Added option to change player control buttons background opacity
+* Theme engine applies foreground colors to text and icons in more locations
+
+🛠️ **Bug Fixes**
+* Restored ShortsPlayerState check to fix default video quality
+* Resolved empty channel tabs when using "Hide channel tab filter"
+* 
 ## v21.04.223 (Morphe v1.40.0)
 
 🔄 **Base/Patches**
